@@ -1,8 +1,8 @@
-SafeDrive is a blockchainbased gamified insurance protocol that rewards safe driving behavior with STX tokens and reduces premiums through verifiable driving data on the Stacks network.
+CoverCoop is a blockchainbased gamified insurance protocol that rewards safe driving behavior with STX tokens and reduces premiums through verifiable driving data on the Stacks network.
 
  Overview
 
-SafeDrive revolutionizes the insurance industry by leveraging smart contracts to:
+CoverCoop revolutionizes the insurance industry by leveraging smart contracts to:
  Track and reward safe driving behavior with STX token rewards
  Dynamically reduce insurance premiums based on verified driving data
  Gamify safe driving through scoring systems and achievement milestones
@@ -43,7 +43,7 @@ SafeDrive revolutionizes the insurance industry by leveraging smart contracts to
  Public Functions
 
  `registerdriver`
-Register a new driver in the SafeDrive protocol.
+Register a new driver in the CoverCoop protocol.
  Returns: Success message or error
 
  `recorddrivingtrip (distance: uint) (duration: uint) (safetyrating: uint)`
